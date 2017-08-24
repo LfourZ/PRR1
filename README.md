@@ -1,8 +1,9 @@
 An h1 header
 ============
 
-[https://github.com/lfourz/PRR1/example.lua](Link to source file online)
-[https://repl.it/KXlA](link to the source file run on repl.it)
+ [Link to source file online](https://github.com/lfourz/PRR1/example.lua)
+
+ [link to the source file run on repl.it](https://repl.it/KXlA)
 
 
 Paragraphs are separated by a blank line.
