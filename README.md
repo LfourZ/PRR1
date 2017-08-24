@@ -1,7 +1,7 @@
 An h1 header
 ============
 
- [Link to source file online](https://github.com/lfourz/PRR1/example.lua)
+ [Link to source file online](https://github.com/LfourZ/PRR1/blob/master/example.lua)
 
  [link to the source file run on repl.it](https://repl.it/KXlA)
 
