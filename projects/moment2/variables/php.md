@@ -1,4 +1,5 @@
 ```php
+<?php
 // Time for some variables
 $preferredVariableFormat = "camelCase\n";
 
@@ -11,4 +12,5 @@ $circumfrence = 2 * M_PI * $radius;
 $area = M_PI * $radius * $radius;
 
 echo "If the radius is $radius then the area is $area and the circumfrence $circumfrence.";
+?>
 ```
