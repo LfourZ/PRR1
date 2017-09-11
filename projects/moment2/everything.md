@@ -4,10 +4,12 @@
 <?php
 echo "<h1>Header using echo</h1>";
 // Echo is marginally faster than print
-print "<h1>Header using print</h1>;"
+print "<h1>Header using print</h1>";
 // But print has a return value
 ?>
 ```
+<script src="//repl.it/embed/KkFe/6.js"></script>
+
 # Comments
 
 ```php
@@ -23,15 +25,12 @@ echo "Here is an example of a multiline comment:";
 */
 ?>
 ```
+<script src="//repl.it/embed/Kuvu/0.js"></script>
 
 # Variables
 
 ```php
 <?php
-// Time for some variables
-$preferredVariableFormat = "camelCase\n";
-
-echo "I prefer ".$preferredVariableFormat;
 // Circle math
 $radius = 4;
 
@@ -42,6 +41,7 @@ $area = M_PI * $radius * $radius;
 echo "With a radius of $radius, the area is $area and the circumfrence $circumfrence.";
 ?>
 ```
+<script src="//repl.it/embed/KuwR/0.js"></script>
 
 # Constants
 
@@ -58,6 +58,7 @@ $finalPrice = $price * VAT;
 echo "Final price is $finalPrice";
 ?>
 ```
+<script src="//repl.it/embed/Kuw2/0.js"></script>
 
 # Concatenation
 
@@ -74,3 +75,4 @@ echo "If the radius is $radius then the area is $area and the circumfrence is $c
 echo "If the radius is ".$radius." then the area is ".$area." and the circumfrence is ".$circumfrence."\n";
 ?>
 ```
+<script src="//repl.it/embed/Kuwc/0.js"></script>
