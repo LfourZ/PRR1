@@ -63,6 +63,7 @@ echo "Final price is $finalPrice";
 # Concatenation
 
 ```php
+<?php
 $radius = 4;
 
 $circumfrence = 2 * M_PI * $radius;
