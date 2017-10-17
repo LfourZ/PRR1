@@ -88,7 +88,7 @@ echo "PHP is about as interesting as \"escaped quotes\"<br>\n";
 echo "Take that as you wish<br>\n";
 ?>
 ```
-
+<script src="//repl.it/embed/MkZW/0.js"></script>
 
 # String Functions #
 
@@ -140,7 +140,7 @@ foreach ($users as $key => $user) {
 }
 ?>
 ```
-<script src="//repl.it/embed/LdBY/0.js"></script>
+<script src="//repl.it/embed/MkZh/0.js"></script>
 
 # Bonus #
 
