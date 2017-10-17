@@ -1,4 +1,4 @@
-# Printing
+# Printing #
 
 ```php
 <?php
@@ -10,7 +10,7 @@ print "<h1>Header using print</h1>";
 ```
 <script src="//repl.it/embed/KkFe/6.js"></script>
 
-# Comments
+# Comments #
 
 ```php
 <?php
@@ -27,7 +27,7 @@ echo "Here is an example of a multiline comment:";
 ```
 <script src="//repl.it/embed/Kuvu/0.js"></script>
 
-# Variables
+# Variables #
 
 ```php
 <?php
@@ -43,7 +43,7 @@ echo "With a radius of $radius, the area is $area and the circumfrence $circumfr
 ```
 <script src="//repl.it/embed/KuwR/0.js"></script>
 
-# Constants
+# Constants #
 
 ```php
 <?php
@@ -60,7 +60,7 @@ echo "Final price is $finalPrice";
 ```
 <script src="//repl.it/embed/Kuw2/0.js"></script>
 
-# Concatenation
+# Concatenation #
 
 ```php
 <?php
@@ -78,7 +78,7 @@ echo "If the radius is ".$radius." then the area is ".$area." and the circumfren
 ```
 <script src="//repl.it/embed/Kuwc/0.js"></script>
 
-# Strings
+# Strings #
 
 ```php
 <?php
@@ -90,7 +90,7 @@ echo "Take that as you wish<br>\n";
 ```
 
 
-# String Functions
+# String Functions #
 
 ```php
 <?php
