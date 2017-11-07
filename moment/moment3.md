@@ -20,3 +20,13 @@
 <script src="//repl.it/embed/LzgK/0.js"></script>
 
 # For loop #
+
+<script src="//repl.it/embed/Mk4m/2.js"></script>
+
+# While loop #
+
+<script src="//repl.it/embed/Msn4/0.js"></script>
+
+# Do while #
+
+<script src="//repl.it/embed/MsoK/0.js"></script>
