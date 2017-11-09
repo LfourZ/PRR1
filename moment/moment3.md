@@ -1,3 +1,5 @@
+[Back](../index.md)
+
 # If #
 
 <script src="//repl.it/embed/Lz5S/0.js"></script>
@@ -38,3 +40,11 @@
 # Fizzbuzz #
 
 <script src="//repl.it/embed/OAow/1.js"></script>
+
+# Foreach #
+So I literally just copied this from earlier, since I already solved everything relevant.
+<script src="//repl.it/embed/MkZh/0.js"></script>
+
+# Break and Continue #
+
+<script src="//repl.it/embed/OAs9/0.js"></script>
