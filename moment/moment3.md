@@ -35,4 +35,6 @@
 
 <script src="//repl.it/embed/OAnB/0.js"></script>
 
-# Tables 2 #
+# Fizzbuzz #
+
+<script src="//repl.it/embed/OAow/1.js"></script>
