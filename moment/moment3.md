@@ -30,3 +30,9 @@
 # Do while #
 
 <script src="//repl.it/embed/MsoK/0.js"></script>
+
+# Tables #
+
+<script src="//repl.it/embed/OAnB/0.js"></script>
+
+# Tables 2 #
