@@ -35,7 +35,7 @@
 
 # Tables #
 
-<script src="//repl.it/embed/OAnB/0.js"></script>
+<script src="//repl.it/embed/OAnB/1.js"></script>
 
 # Fizzbuzz #
 
