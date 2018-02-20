@@ -34,7 +34,7 @@ file:close()
 -- It was really unclear what I was supposed to write to the file.
 -- The example showed only the numbers written, but it said to
 -- write "the answers"
-
+f
 print("Elements: ", unpack(numbers))
 print("Number of elements: " .. #numbers)
 print("Average: ", math.average(unpack(numbers)))
